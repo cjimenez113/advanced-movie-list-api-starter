@@ -1,7 +1,7 @@
-
+import express from 'express';
 import MovieController from '../controllers/MovieController';
 
-const router = Router();
+const router = express.Router();
 
 router.get('/movies', MovieController.list);
 

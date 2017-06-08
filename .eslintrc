@@ -43,11 +43,6 @@
     },
 
     "rules": {
-        "babel/arrow-parens": [2, "as-needed"],
-        "babel/array-bracket-spacing": [2, "always"],
-        "babel/generator-star-spacing": [2, {"before": true, "after": false}],
-        "array-bracket-spacing": 0,
-        "generator-star-spacing": 0,
 
         "arrow-spacing": 2,
         "block-scoped-var": 0,
